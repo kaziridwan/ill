@@ -6,7 +6,7 @@
 [![NPM Downloads](https://img.shields.io/npm/dm/commander.svg?style=flat)](https://www.npmjs.org/package/commander)
 [![Join the chat at https://gitter.im/tj/commander.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tj/commander.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-	An npm CLI tool that generates different part of your project, inspired by the laravel-generator, and gulp. Powered by commanderJS, EJS templates and, simplicity in mind; and a lot of ambition to
+  An npm CLI tool that generates different part of your project, inspired by the laravel-generator, and gulp. Powered by commanderJS, EJS templates and, simplicity in mind; and a lot of ambition to
 create a new design pattern called GDD (Generator driven design), that not only goes hand in hand with functional programming; but also helps accelerating any kind of app development.
 
 ## Installation
